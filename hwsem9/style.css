@@ -1,0 +1,145 @@
+* {
+    text-decoration: none;
+}
+
+.top {
+    margin-left: 405px;
+    margin-right: 401px;
+    display: flex;
+    justify-content: center;
+    
+}
+.item {
+    position: relative;
+    margin-bottom: 125px;
+ }
+
+.item_img {
+    padding-bottom: 25px;
+}
+
+.icon_1 {
+    position: absolute;
+    top: 23px;
+    left: 21px;
+}
+
+.item_2 {
+    position: relative;
+}
+
+.icon_2 {
+    position: absolute;
+    top: 24px;
+    left: 27px;
+}
+
+.item_3 {
+    position: relative;
+}
+
+.icon_3 {
+    position: absolute;
+    top: 27px;
+    left: 27px;
+
+}
+
+.title {
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    padding-bottom: 17px;
+}
+
+.text {
+    font-size: 15px;
+    line-height: 22px;
+    color: #666666;
+    padding-bottom: 25px;
+    padding-right: 90px;
+    width: 310px;
+    height: 42px;
+}
+
+.page__link {
+    font-size: 11px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.big__title {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+.content__title {
+    font-size: 45px;
+    line-height: 53px;
+    color: #000000;
+}
+
+.title__text {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #666666;
+    margin-left: 619px;
+    margin-right: 619px;
+    margin-bottom: 70px;
+}
+
+.content__items {
+    margin-left: 375px;
+    margin-right: 375px;
+    display: flex;
+    justify-content: center;
+}
+.content__item {
+    margin-right: 30px;
+    position: relative;
+}
+
+.img_content {
+    width: 385px;
+    height: 289px;
+}
+
+.block__title {
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    padding-bottom: 22px;
+    padding-left: 83px;
+    padding-right: 83px;
+}
+
+.content__text {
+    font-size: 15px;
+    line-height: 22px;
+    color: #AAAAAA;
+    padding-bottom: 39px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.button {
+    position: absolute;
+    left: 100px;
+    right: 120px;
+    bottom: 50px;
+    top: 449px;
+    width: 150px;
+    height: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+    border-radius: 50px;
+
+}
+
+.button_text {
+    font-size: 13px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF; 
+}
